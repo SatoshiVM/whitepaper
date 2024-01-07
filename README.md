@@ -8,7 +8,7 @@ We have improved a method that can verify the correct execution of arbitrary fun
 
 The system leverages the features of Taproot, which enables the representation of the execution process of a set of complex functions through a single hash. By fully executing the ZK proof process off-chain for a block and verifying the proof on Bitcoin through Taproot, the system ensures the validation of blocks. Additionally, when the block miner on Layer2 sends each block validation transaction, they also submit the hash of the corresponding block data and proof data to Bitcoin. Subsequently, anyone can use relevant hash submitted to Bitcoin to obtain comprehensive data from a specific DA layer for third-party verification of Layer2 blocks.
 
-For more details, you can visit SatoshiVM Overview.
+For more details, you can visit [SatoshiVM Overview](https://github.com/SatoshiVM/whitepaper/blob/main/SatoshiVM%20Overview.pdf).
 
 ## Links
 
