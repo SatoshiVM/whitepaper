@@ -12,6 +12,6 @@ For more details, you can visit SatoshiVM Overview.
 
 ## Links
 
-Homepage: https://satoshivm.io/
-Explorer(testnet): https://testnet.svmscan.io/
-Docs: https://docs.satoshivm.io/
+Homepage: https://satoshivm.io/  
+Explorer(testnet): https://testnet.svmscan.io/  
+Docs: https://docs.satoshivm.io/  
