@@ -14,6 +14,6 @@ For more details, you can visit [SatoshiVM Overview](https://github.com/SatoshiV
 
 | Page      | Link |
 | :---      |    :----:   |
-| Homepage | https://www.satoshivm.io/ |
+| Website | https://www.satoshivm.io/ |
 | Explorer(testnet)| https://testnet.svmscan.io/ |
 | Docs | https://docs.satoshivm.io/ |
